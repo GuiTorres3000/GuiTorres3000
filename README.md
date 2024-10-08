@@ -10,29 +10,34 @@ new things!
 
 👨‍🎓Higher Technology Course (CST) of Software Analysis and Development at IFRS
 
-## 🔷Backend Development
+## **🔷Backend Development**
 - PHP 8.3 (& Framework Laravel)
 - PHPUnit, Composer
 - Node.js
 - Relational Databases (MySQL, Postgres and Oracle)
 - APIs RESTful
 
-## 🔶Frontend Development
+## **🔶Frontend Development**
 - JavaScript (React, Next.js & jQuery)
 - Bootstrap, Tailwind CSS, ShadCN
 - HTML5 e CSS3
 
-## 🔧Tools and Methodologies
+## **🔧Tools and Methodologies**
 - Docker
 - AWS
 - Agile Methodology (Scrum)
 - Design Patterns
 
-## 🎤Languages
+## **🎤Languages**
 - English (Fluent)
 - Portuguese (Native)
 
-## Contact
-<a href="https://www.linkedin.com/in/guilhermesilvatorres/?locale=en_US" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## **Contact**
+<div align="left"> 
+ <a href="https://www.linkedin.com/in/guilhermesilvatorres/?locale=en_US" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+ <a href = "mailto:guilhermetorres3000.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </a>
+</div>
