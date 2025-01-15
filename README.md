@@ -1,7 +1,7 @@
 # Hello World! I'm Guilherme Tôrres! 😊
 
 ## About Me
-Tenho 19 anos, sou programador web, artista e desenvolvedor de jogos.
+Tenho 19 anos, sou programador web, artista e desenvolvedor de jogos.<br>
 Construindo meu conhecimento desde 2020, em desenvolvimento web.
 
 - 🧑‍💻Curso Técnico de Desenvolvimento de Software Integrado ao Ensino Médio do IFRS<br>
