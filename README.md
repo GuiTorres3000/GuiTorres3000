@@ -1,42 +1,34 @@
 # Hello World! I'm Guilherme Tôrres! 😊
 
 ## About Me
-Building my knowledge since 2020, in web development. 
-I currently focus on backend development in PHP (Laravel) and SQL (MySQL, Oracle and Postgrees), with Frontend in React, JavaScript and Bootstrap. 
-In addition to having diverse knowledge about agile development and security practices, design patterns and clean code. Always trying to learn
-new things!
- 
-🧑‍💻Technical Course of Software Development Integrated into High School at IFRS
+Tenho 19 anos, sou programador web, artista e desenvolvedor de jogos.
+Construindo meu conhecimento desde 2020, em desenvolvimento web.
 
-👨‍🎓Higher Technology Course (CST) of Software Analysis and Development at IFRS
+- 🧑‍💻Curso Técnico de Desenvolvimento de Software Integrado ao Ensino Médio do IFRS<br>
+- 👨‍🎓Curso Superior de Tecnologia em Análise e Desenvolvimento de Software na IFRS
 
-## **🔷Backend Development**
-- PHP 8.3 (& Framework Laravel)
-- PHPUnit, Composer
-- Node.js
-- Relational Databases (MySQL, Postgres and Oracle)
-- APIs RESTful
 
-## **🔶Frontend Development**
-- JavaScript (React, Next.js & jQuery)
-- Bootstrap, Tailwind CSS, ShadCN
-- HTML5 e CSS3
+## **📃🪶Estudando Atualmente**
+### Backend
+[![Principais Linguagens Front](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev)
 
-## **🔧Tools and Methodologies**
-- Docker
-- AWS
-- Agile Methodology (Scrum)
-- Design Patterns
+### Frontend
+[![Principais Linguagens Back](https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,prisma)](https://skillicons.dev)
 
-## **🎤Languages**
-- English (Fluent)
-- Portuguese (Native)
+
+## **🔷Desenvolvimento Backend (Já utilizei/utilizo)**
+[![Backend](https://skillicons.dev/icons?i=php,laravel,react,mysql,postgres)](https://skillicons.dev)
+
+
+## **🔶Frontend Development (Já utilizei/utilizo)**
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
 
 ## **Contact**
 <div align="left"> 
  <a href="https://www.linkedin.com/in/guilhermesilvatorres/?locale=en_US" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
+
  <a href = "mailto:guilhermetorres3000.com">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
