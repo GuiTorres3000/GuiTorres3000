@@ -1,29 +1,46 @@
 # Hello World! I'm Guilherme Tôrres! 😊
 
-## About Me
-Tenho 19 anos, sou programador web, artista e desenvolvedor de jogos.<br>
-Construindo meu conhecimento desde 2020, em desenvolvimento web.
+## Sobre Mim
+Tenho 20 anos, programador Fullstack e colaborador do projeto MasterApp (como engenheiro de software)<br>
+Construindo meu conhecimento desde 2020, no IFRS. 
 
-- 🧑‍💻Curso Técnico de Desenvolvimento de Software Integrado ao Ensino Médio do IFRS<br>
-- 👨‍🎓Curso Superior de Tecnologia em Análise e Desenvolvimento de Software na IFRS
+- 🧑‍💻<strong>Curso Técnico de Desenvolvimento de Software no IFRS<strong><br>
+- 👨‍🎓<strong>Curso Superior de Tecnologia em Análise e Desenvolvimento de Software na IFRS<strong>
 
+## Experiência Profissional
 
-## **📃🪶Estudando Atualmente**
-### Backend
-[![Principais Linguagens Front](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev)
+- **🛠️ Desenvolvimento Backend**
+  - NodeJS <img align="center" alt="NodeJS" src="https://icongr.am/devicon/nodejs-original.svg?size=20&color=currentColor" /> , 
+Express <img align="center" alt="Express" src="https://icongr.am/devicon/express-original.svg?size=20&color=59d961" /> ,
+TypeScript <img align="center" alt="TS" src="https://icongr.am/devicon/typescript-plain.svg?size=20&color=currentColor" />
+  - Prisma ORM
+  - Messaging Services (RabbitMQ)
+  - Relational Databases (Postgres, MySQL)
+  
 
-### Frontend
-[![Principais Linguagens Back](https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,prisma)](https://skillicons.dev)
+- **💻 Desenvolvimento Frontend**
+  - React <img align="center" alt="React" src="https://icongr.am/devicon/react-original.svg?size=20&color=currentColor" /> ,  NextJS
+  - Tailwind
+  
+- **⚙️ Tecnologias**
+  - Docker
+  - AWS
+  - CI/CD
 
+## Outras habilidades ténicas
 
-## **🔷Desenvolvimento Backend (Já utilizei/utilizo)**
-[![Backend](https://skillicons.dev/icons?i=php,laravel,react,mysql,postgres)](https://skillicons.dev)
+- **🛠️ Desenvolvimento Backend**
+  - NestJS, PHP e Laravel 
 
+- **💻 Frontend Development**
+  - Bootstrap
+  - React Native
+   
+## Objetivos
+- Aumentar meu conhecimento técnico pela área em que sou apaixonado desde os 14 anos.
+- Contribuir para o impacto de projetos, assim, mudando um pouquinho do planeta de alguma forma
 
-## **🔶Frontend Development (Já utilizei/utilizo)**
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
-
-## **Contact**
+## **Contato**
 <div align="left"> 
  <a href="https://www.linkedin.com/in/guilhermesilvatorres/?locale=en_US" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
