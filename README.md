@@ -13,17 +13,18 @@ Construindo meu conhecimento desde 2020, no IFRS.
   - NodeJS <img align="center" alt="NodeJS" src="https://icongr.am/devicon/nodejs-original.svg?size=20&color=currentColor" /> , 
 Express <img align="center" alt="Express" src="https://icongr.am/devicon/express-original.svg?size=20&color=59d961" /> ,
 TypeScript <img align="center" alt="TS" src="https://icongr.am/devicon/typescript-plain.svg?size=20&color=currentColor" />
-  - Prisma ORM
-  - Messaging Services (RabbitMQ)
-  - Relational Databases (Postgres, MySQL)
-  
+  - Prisma ORM <img align="center" alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height=20 width=20 />
+  - Serviços de fila e mensageria (RabbitMQ) <img align="center" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height=20 width=20 /> Redis, <img align="center" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" height=20 width=20 />
+  - Relational Databases (Postgres, MySQL) <img align="center" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height=20 width=20 />
+
+  Atualmente estou aperfeiçoando meu conhecimento em estrutura de dados
 
 - **💻 Desenvolvimento Frontend**
-  - React <img align="center" alt="React" src="https://icongr.am/devicon/react-original.svg?size=20&color=currentColor" /> ,  NextJS
-  - Tailwind
-  
+  - React <img align="center" alt="React" src="https://icongr.am/devicon/react-original.svg?size=20&color=currentColor" /> ,  NextJS <img align="center" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height=20 width=20 />
+  - Tailwind <img align="center" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height=20 width=20/>
+
 - **⚙️ Tecnologias**
-  - Docker
+  - Docker  <img align="center" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height=20 width=20 />
   - AWS
   - CI/CD
 
