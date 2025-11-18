@@ -1,7 +1,7 @@
 # Hello World! I'm Guilherme Tôrres! 😊
 
 ## Sobre Mim
-Tenho 20 anos, programador Fullstack e colaborador do projeto MasterApp (como engenheiro de software)<br>
+Tenho 20 anos, programador Fullstack, me desenvolvendo como arquiteto de software<br>
 Construindo meu conhecimento desde 2020, no IFRS. 
 
 - 🧑‍💻<strong>Curso Técnico de Desenvolvimento de Software no IFRS<strong><br>
@@ -10,6 +10,7 @@ Construindo meu conhecimento desde 2020, no IFRS.
 ## Experiência Profissional
 
 - **🛠️ Desenvolvimento Backend**
+  - NestJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height=20 /> , 
   - NodeJS <img align="center" alt="NodeJS" src="https://icongr.am/devicon/nodejs-original.svg?size=20&color=currentColor" /> , 
 Express <img align="center" alt="Express" src="https://icongr.am/devicon/express-original.svg?size=20&color=59d961" /> ,
 TypeScript <img align="center" alt="TS" src="https://icongr.am/devicon/typescript-plain.svg?size=20&color=currentColor" />
