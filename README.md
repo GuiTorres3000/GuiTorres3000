@@ -1,8 +1,8 @@
 # Hello World! I'm Guilherme Tôrres! 😊
 
 ## Sobre Mim
-Tenho 20 anos, programador Fullstack, me desenvolvendo como arquiteto de software<br>
-Construindo meu conhecimento desde 2020, no IFRS. 
+Programador Fullstack, me desenvolvendo como arquiteto de softwarem<br>
+Construindo meu conhecimento desde 2020 no Instituto Federal. 
 
 - 🧑‍💻<strong>Curso Técnico de Desenvolvimento de Software no IFRS<strong><br>
 - 👨‍🎓<strong>Curso Superior de Tecnologia em Análise e Desenvolvimento de Software na IFRS<strong>
@@ -29,14 +29,11 @@ TypeScript <img align="center" alt="TS" src="https://icongr.am/devicon/typescrip
   - AWS
   - CI/CD
 
-## Outras habilidades ténicas
+## Busco me desenvolver 
 
-- **🛠️ Desenvolvimento Backend**
-  - NestJS, PHP e Laravel 
-
-- **💻 Frontend Development**
-  - Bootstrap
-  - React Native
+- Estruturas de dados 
+- Arquiteturas de sistema robustas e complexas
+- Atuar em ambientes de alta complexidade 
    
 ## Objetivos
 - Aumentar meu conhecimento técnico pela área em que sou apaixonado desde os 14 anos.
