@@ -1,12 +1,18 @@
 # Hello World! I'm Guilherme Tôrres! 😊
 
 ## Sobre Mim
-Programador Fullstack, me desenvolvendo como arquiteto de softwarem<br>
+Programador Fullstack, me desenvolvendo como arquiteto de software!<br>
 Construindo meu conhecimento desde 2020 no Instituto Federal. 
 
 - 🧑‍💻<strong>Curso Técnico de Desenvolvimento de Software no IFRS<strong><br>
 - 👨‍🎓<strong>Curso Superior de Tecnologia em Análise e Desenvolvimento de Software na IFRS<strong>
 
+## Busco me desenvolver 
+
+- Estruturas de dados 
+- Arquiteturas de sistema robustas e complexas
+- Atuar em ambientes de alta complexidade
+  
 ## Experiência Profissional
 
 - **🛠️ Desenvolvimento Backend**
@@ -28,12 +34,6 @@ TypeScript <img align="center" alt="TS" src="https://icongr.am/devicon/typescrip
   - Docker  <img align="center" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height=20 width=20 />
   - AWS
   - CI/CD
-
-## Busco me desenvolver 
-
-- Estruturas de dados 
-- Arquiteturas de sistema robustas e complexas
-- Atuar em ambientes de alta complexidade 
    
 ## Objetivos
 - Aumentar meu conhecimento técnico pela área em que sou apaixonado desde os 14 anos.
