@@ -20,9 +20,10 @@ Construindo meu conhecimento desde 2020 no Instituto Federal.
   - NodeJS <img align="center" alt="NodeJS" src="https://icongr.am/devicon/nodejs-original.svg?size=20&color=currentColor" /> , 
 Express <img align="center" alt="Express" src="https://icongr.am/devicon/express-original.svg?size=20&color=59d961" /> ,
 TypeScript <img align="center" alt="TS" src="https://icongr.am/devicon/typescript-plain.svg?size=20&color=currentColor" />
-  - Prisma ORM <img align="center" alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height=20 width=20 />
+  - Prisma ORM <img align="center" alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height=20 width=20 />, Sequelize ORM <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height=20 width=20 />
   - Serviços de fila e mensageria (RabbitMQ) <img align="center" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height=20 width=20 /> Redis, <img align="center" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" height=20 width=20 />
-  - Relational Databases (Postgres, MySQL) <img align="center" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height=20 width=20 />
+  - Banco de dados relacionais (Postgres, MySQL) <img align="center" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height=20 width=20 /> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height=20 width=20 />
+  - Banco de dados não relacionais (MongoDB) <img align="center" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" height=20 width=20 />
 
   Atualmente estou aperfeiçoando meu conhecimento em estrutura de dados
 
@@ -32,8 +33,7 @@ TypeScript <img align="center" alt="TS" src="https://icongr.am/devicon/typescrip
 
 - **⚙️ Tecnologias**
   - Docker  <img align="center" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height=20 width=20 />
-  - AWS
-  - CI/CD
+  - AWS <img align="center" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height=20 width=20 />
    
 ## Objetivos
 - Aumentar meu conhecimento técnico pela área em que sou apaixonado desde os 14 anos.
